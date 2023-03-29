@@ -4,7 +4,7 @@ void setup()
 {
   Serial.begin(9600);
   Serial.println("touch Board");
-  pinMode(2,OUTPUT);
+  pinMode(3, INPUT);
   
   pinMode(5,OUTPUT);
   pinMode(6,OUTPUT);
