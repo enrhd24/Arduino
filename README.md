@@ -13,5 +13,12 @@
 > [1] int array[10] : 핀번호 정리 <br>
 > [2] LED전구 스위치 : 2 ~ 9 <br>
 > [3] for문을 활용한 순차적인 가독성 <br>
+5. LED_ON4 -> LED_ON ~ LED+ON3<br>
+
+### ![Terrific](./image/LED_ON5.png)
+### 6. LED_ON 5
+
+> [1] analog Read 및 Write
+> [2] 고정저항기 VS 가변저항기
 
  
