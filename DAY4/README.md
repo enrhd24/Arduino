@@ -11,7 +11,7 @@
 > [1] LED_ON의 베타테스크 blink 실행 <br>
 > [2] millis의 현재시점과 delay시점 측정 <br>
 > [3] LED_ON의 delay의 시점과 맞게 결합 <br>
-5. Analog_ServoMoto ~ millos_ServoMoto
+5. Analog_ServoMoto ~ millis_ServoMoto
 >[1] ServoMoto [millos blink Test]<br>
 >[2] 초기값, 앵글, delay(milis), Servo구조체, analogPin지정<br>
 >[3] setup의 pinMode와 servo.arrach()지정 <br>
