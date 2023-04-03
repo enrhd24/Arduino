@@ -1,0 +1,21 @@
+const int LED = 13;
+int t_hight = 0;
+
+unsigned long t1_prev = 0;
+const unsigned long t1_delay = 4;
+
+void setup(){
+	//pinMode(LED,OUTPUT);
+}
+
+void loop(){
+    unsigned long t1_now = millis();
+  
+    if(t1_now - t1_prev >= t1_delay){
+    t1_prev = t1_now;
+    
+    t_hight++;
+    if(t_hight >255){t_hight = 0;}
+    analogWrite(LED,t_hight);
+  }
+}
