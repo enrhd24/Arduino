@@ -15,3 +15,8 @@
 > [2] Pinao+LED_Ultrasonic.ino <br>
 > [3] Pinao+LED+button_Ultrasonic.ino<br>
 > [/] if of LED,button,buzzer 범위 결정 <br>
+
+3. Signal IR-Tracking of Arduino
+> [1] IR-Tracking.ino <br>
+> [2] LED_IR-Tracking.ino <br>
+> [3] buzzer_IR-Tracking.ino<br>
