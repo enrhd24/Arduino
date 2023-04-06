@@ -8,7 +8,7 @@ void setup(){
 }
 
 void loop(){
-  if(digitalRead(6) == 0){
+  if(digitalRead(Read) == 0){
     digitalWrite(LED,HIGH);
     delay(100);
     Serial.println("흰색물체 감지");
