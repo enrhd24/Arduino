@@ -6,7 +6,7 @@ void setup(){
 }
 
 void loop(){
-  if(digitalRead(6) == 0){
+  if(digitalRead(Read) == 0){
     Serial.println("흰색물체 감지");
   }else{
     Serial.println("감지없음");
