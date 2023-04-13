@@ -7,5 +7,6 @@
 >[6] [DAY6](https://github.com/enrhd24/LED_ON/tree/main/DAY6)<br>
 >[7] [DAY7](https://github.com/enrhd24/LED_ON/tree/main/DAY7)<br>
 >[8] [DAY8](https://github.com/enrhd24/LED_ON/tree/main/DAY8)<br>
->[9] [Architecture](https://github.com/enrhd24/LED_ON/tree/main/Architecture)<br>
+>[9] [DAY9](https://github.com/enrhd24/LED_ON/tree/main/DAY9)<br>
+>[10] [Architecture](https://github.com/enrhd24/LED_ON/tree/main/Architecture)<br>
 > [기타] [앞으로 공부할 방향](https://swiftcam.tistory.com/140)<br>
