@@ -1,4 +1,4 @@
-### Putty Pracitve in Arduino
+### [__Putty__](https://learn.sparkfun.com/tutorials/terminal-basics/all#serial-terminal-overview) Pracitve in Arduino
 1. Putty
 > [1] Putty.log<br>
 > [2] Putty_2023_M13_11710.log<br>
