@@ -4,7 +4,7 @@
 > [2] max, min, abs<br>
 > [3] sqrt[sqrtf], pow<br>
 > [기타] fabs, fmod, modf, modff <br>
-### ![Calibration](../image/Calibration.png)
+### ![Calibration](../../image/Calibration.png)
 2. Cailbraion
 > : 아두이노에서는 교정<br>
 > : 센서가 측정하기 전에 측정하는 최소와 최대값을 정하는 교정을 하는 작업<br>

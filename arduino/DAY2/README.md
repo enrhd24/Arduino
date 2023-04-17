@@ -1,4 +1,4 @@
-### ![Terrific](../image/JoyStick_ON.png)
+### ![Terrific](../../image/JoyStick_ON.png)
 #### 아두이노로 이용한 5가지 센서
 1. LED_ON ~ LED_ON1
 > [1] LED_ON [blink Test]<br>
@@ -15,7 +15,7 @@
 > [2] 센서모터에 입력할 값 'attach'한다. <br>
 > [3] 펄스값을 나눈 범위에 따라 모터움직임. <br>
 
-### ![Terrific](../image/Ultrasonic_LEDON.png)
+### ![Terrific](../../image/Ultrasonic_LEDON.png)
 ### 5. LED_ON 5
 > [1] 초음파센서의 INPUT과 OUTPUT핀을 구분 <br>
 > [2] blink의 test코드를 넣은다음 거리를 계산. <br>

@@ -17,7 +17,7 @@
 >[3] setup의 pinMode와 servo.arrach()지정 <br>
 >[4] 현재시간, analogPin입력, ServoMoto angle 지정 및 angle 초기화<br>
 >[5] 인터럽트를 활용하여 delay 범위랑 angle 범위 지정 <br> 
-### ![ServoMoto](../image/millis_ServoMoto.png)
+### ![ServoMoto](../../image/millis_ServoMoto.png)
 #### 6. 최종본
 > [1] Analog_ServoMoto ~ millis_ServoMoto <br>
 > [2] Analog_LED_ON 단, 가변저항 받은 값으로 처리<br>

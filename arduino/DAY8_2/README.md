@@ -1,1 +1,1 @@
-![LineTracer](../image/LineTracer.jpg)
+![LineTracer](../../image/LineTracer.jpg)
