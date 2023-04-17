@@ -1,4 +1,4 @@
-![Terrific](../image/Terrific%20LED_ON.png)
+![Terrific](../../image/Terrific%20LED_ON.png)
 #### 아두이노로 이용한 LED_ON
 1. LED_ON
 > [1] blink를 이용한 테스트 핀<br>
