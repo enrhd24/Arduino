@@ -11,3 +11,5 @@
 >[9] [DAY9](https://github.com/enrhd24/LED_ON/tree/main/DAY9)<br>
 >[10] [Architecture](https://github.com/enrhd24/LED_ON/tree/main/Architecture)<br>
 > [기타] [앞으로 공부할 방향](https://swiftcam.tistory.com/140)<br>
+---
+>[1] [ATmage328p](https://github.com/enrhd24/LED_ON/tree/main/ATmage328p)<br>
