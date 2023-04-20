@@ -1,5 +1,3 @@
-#include <avr/io.h>
-#include <util/delay.h>
 
 void LED_lnit(void);
 void LED_On(unsigned char Data);
@@ -7,9 +5,9 @@ void LED_On(unsigned char Data);
 int main(void){
 	LED_lnit();
 	for(;;){
-		LED_ON(0x01);
-		_delay_ms(100);
 		LED_ON(0x00);
+		_delay_ms(100);
+		LED_ON(0x01);
 		_delay_ms(100);
 	}
 	
@@ -17,10 +15,10 @@ int main(void){
 }
 
 void LED_lnit(void){
-	DDRB = 0x01;
+	DDRD = 0xff;
 }
 
 void LED_ON(unsigned char Data){
-	PORTB = Data;
+	PORTD = Data;
 }
 
