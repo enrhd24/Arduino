@@ -1,3 +1,5 @@
+#include <avr/io.h>
+#include <util/delay.h>
 
 void LED_lnit(void);
 void LED_On(unsigned char Data);
