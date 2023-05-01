@@ -1,7 +1,6 @@
 
 #### This is real True arduino __예제__
 >[1] [ATmage328p](https://github.com/enrhd24/LED_ON/tree/main/ATmage328p)<br>
-> [기타] [앞으로 공부할 방향](https://swiftcam.tistory.com/140)<br>
 ---
 #### 아두이노의 적합한 __예제__
 >[1] [DAY1](https://github.com/enrhd24/LED_ON/tree/main/arduino/DAY1)
@@ -15,5 +14,5 @@
 >[8-2] [DAY8-2](https://github.com/enrhd24/LED_ON/tree/main/arduino/DAY8_2)
 >[9] [DAY9](https://github.com/enrhd24/LED_ON/tree/main/arduino/DAY9)<br>
 >[10] [Architecture](https://github.com/enrhd24/LED_ON/tree/main/Architecture)
-
+> [기타] [앞으로 공부할 방향](https://swiftcam.tistory.com/140)<br>
 
